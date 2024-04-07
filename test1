@@ -1,0 +1,2 @@
+SELECT * FROM (select distinct customer from customers) WHERE customername='Chris';
+
